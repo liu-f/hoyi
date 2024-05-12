@@ -1,0 +1,37 @@
+{
+  "id": "4543027",
+  "name": "hoyi",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1305489",
+      "name": "app",
+      "font_class": "app",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "1613453",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "4146842",
+      "name": "teambition",
+      "font_class": "teambition",
+      "unicode": "e6ca",
+      "unicode_decimal": 59082
+    },
+    {
+      "icon_id": "77156",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
